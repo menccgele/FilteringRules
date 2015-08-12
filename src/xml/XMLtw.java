@@ -1,14 +1,17 @@
 package xml;
 
+/*
+ * XML Type Weight = XMLtw
+ */
 public class XMLtw {
-	
+
 	private String type;
 	private int weight;
-	
-	XMLtw(String type, int weight){
-		if(type.equals("child") || type.equals("sub") || type.equals("root") && weight>0){
-		this.type = type;
-		this.weight = weight;
+
+	XMLtw(String type, int weight) {
+		if (type.equals("child") || type.equals("sub") || type.equals("root") && weight > 0) {
+			this.type = type;
+			this.weight = weight;
 		}
 	}
 
@@ -17,7 +20,8 @@ public class XMLtw {
 	}
 
 	public void setType(String type) {
-		this.type = type;
+		if (type.equals("child") || type.equals("sub") || type.equals("root"))
+			this.type = type;
 	}
 
 	public int getWeight() {
@@ -25,13 +29,12 @@ public class XMLtw {
 	}
 
 	public void setWeight(int weight) {
-		this.weight = weight;
+		if (weight > 0)
+			this.weight = weight;
 	}
-	
-	public String toString(){
-		return type+" "+weight;
+
+	public String toString() {
+		return type + " " + weight;
 	}
-	
-	
 
 }
