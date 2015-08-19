@@ -1,0 +1,27 @@
+2015-08-19 15:56:48,397 [main] INFO SAXParser - File not found, please check your path u lil shit.
+2015-08-19 15:59:36,835 [main] INFO SAXParser - File not found, please check your path u lil shit.
+2015-08-19 15:59:55,863 [main] INFO SAXParser - a CHILD 34
+2015-08-19 15:59:55,868 [main] INFO SAXParser - b SUB 56
+2015-08-19 15:59:55,869 [main] INFO SAXParser - c CHILD 99
+2015-08-19 15:59:55,869 [main] INFO SAXParser - d ROOT 45
+2015-08-19 16:05:46,743 [main] INFO SAXParser - a CHILD 34
+2015-08-19 16:05:46,894 [main] INFO SAXParser - b SUB 56
+2015-08-19 16:05:46,895 [main] INFO SAXParser - c CHILD 99
+2015-08-19 16:05:46,895 [main] INFO SAXParser - d ROOT 45
+2015-08-19 16:15:49,350 [main] INFO SAXParser - a CHILD 34
+2015-08-19 16:15:49,367 [main] INFO SAXParser - b SUB 56
+2015-08-19 16:15:49,367 [main] INFO SAXParser - c CHILD 99
+2015-08-19 16:15:49,367 [main] INFO SAXParser - d ROOT 45
+2015-08-19 16:16:37,889 [main] INFO SAXParser - a CHILD 34
+2015-08-19 16:16:37,894 [main] INFO SAXParser - b SUB 56
+2015-08-19 16:16:37,894 [main] INFO SAXParser - c CHILD 99
+2015-08-19 16:16:37,894 [main] INFO SAXParser - d ROOT 45
+2015-08-19 16:17:06,079 [main] INFO SAXParser - a CHILD 34
+2015-08-19 16:17:06,084 [main] INFO SAXParser - b SUB 56
+2015-08-19 16:17:06,085 [main] INFO SAXParser - c CHILD 99
+2015-08-19 16:17:06,085 [main] INFO SAXParser - d ROOT 45
+2015-08-19 16:17:06,087 [main] INFO Filter - file.xml
+2015-08-19 16:18:09,392 [main] INFO SAXParser - a CHILD 34
+2015-08-19 16:18:09,397 [main] INFO SAXParser - b SUB 56
+2015-08-19 16:18:09,397 [main] INFO SAXParser - c CHILD 99
+2015-08-19 16:18:09,397 [main] INFO SAXParser - d ROOT 45
